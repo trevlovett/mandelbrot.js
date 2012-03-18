@@ -1,7 +1,6 @@
 var MAX_WIDTH = 180;
 var MAX_HEIGHT = 100;
 
-
 function render(min_i, max_i, prec_i, min_r, max_r, prec_r, max_iter, div, palette) {
     //var palette = palette_str.split('');
 
